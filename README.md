@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsobe&label=Profile%20views&color=0e75b6&style=flat" alt="utsobe" /> </p>
 <p align="left"> <a href="https://twitter.com/utsobe_" target="blank"><img src="https://img.shields.io/twitter/follow/utsobe_?logo=twitter&style=for-the-badge" alt="utsobe_" /></a> </p>
 
-- 🔭 I’m currently working on **Native Tools**
+- 🔭 I’m currently working on **octcit.com**
 
-- 🌱 I’m currently learning **React Native, NextJS, TypeScript**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **MERN, JavaScript**
 
