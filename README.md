@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **company projects**
 
-- 🌱 I’m currently learning **Drag & Drop**
+- 🌱 I’m currently learning **Backend Things**
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **mmhutsobe01@gmail.com**
+- 📫 How to reach me **utsobe.dev@gmail.com**
 
 - ⚡ Fun fact **coding also in my dreams**
 
